@@ -1,0 +1,6 @@
+{
+  "name": "CutCraft Studio",
+  "description": "2.5D AI video editing station powered by Gemini 4 Hydrogen for automated TikTok, YouTube Shorts, and custom-duration edits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
